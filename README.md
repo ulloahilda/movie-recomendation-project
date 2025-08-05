@@ -60,3 +60,5 @@ My name is Hilda Ulloa. I’m transitioning from math education and finance into
 ---
 
 Thanks for checking out my project!
+
+https://github.com/ulloahilda/movie-recomendation-project/blob/2b2547592427c6b81fb99505bb03b6b94d5aa064/movie_analysis.sql
